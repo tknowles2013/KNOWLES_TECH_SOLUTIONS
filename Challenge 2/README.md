@@ -1,6 +1,7 @@
 Challenge 2
 
 *Note: Must install beautifulsoup4 (bs4) to run*
+
 *Requires requests, csv, and time libraries to work*
 
 Collect unstructured data from www.motionpoint.com, analyze the data and store it in a file.

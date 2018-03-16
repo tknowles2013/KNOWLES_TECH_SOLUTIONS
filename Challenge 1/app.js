@@ -1,7 +1,7 @@
-//Taran Knowles
-//MotionPoint - Technical Analyst Assessment
-//Challenge 1
-//KNOWLES_TECH_SOLUTIONS
+// Taran Knowles
+// MotionPoint - Technical Analyst Assessment
+// Challenge 1
+// KNOWLES_TECH_SOLUTIONS
 
 const request = require("request");
 const fs = require("fs")

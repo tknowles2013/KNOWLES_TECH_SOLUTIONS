@@ -1,5 +1,9 @@
 Challenge 1
 
+*Note: This solution uses NodeJS. Please install all dependences as stated in package.json
+
+Collect unstructured data from www.motionpoint.com, analyze the data and store it in a file.
+
 Leverage the Random User Generator API (https://randomuser.me) to create user data which you will sort and store into separate files.
 
  

@@ -1,6 +1,6 @@
 Challenge 1
 
-*Note: This solution uses NodeJS. Please install all dependences as stated in package.json
+*Note: This uses NodeJS. Please install all dependences as stated in package.json*
 
 Collect unstructured data from www.motionpoint.com, analyze the data and store it in a file.
 

@@ -1,5 +1,6 @@
 # KNOWLES_TECH_SOLUTIONS
 Taran Knowles
+
 MotionPoint - Technical Analyst Assessment
 
 
